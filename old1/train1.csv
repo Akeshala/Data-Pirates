@@ -1,0 +1,86 @@
+empty,Phrase,Score,Magnitude,Label
+,It was really good,0.800000012,0.800000012,1
+,Now I have everything I need,0.699999988,0.699999988,1
+,This sucks,-0.800000012,0.800000012,0
+,They don't know how to provide a proper service,-0.600000024,0.600000024,0
+,This is the best,0.800000012,0.800000012,1
+,You are not serving customers well,-0.800000012,0.800000012,0
+,You should have a proper service for customer,0,0,0.5
+,I am not impressed,-0.899999976,0.899999976,0
+,Now I am really impressed with this,0.899999976,0.899999976,1
+,They are not fulfilling our requirement,-0.699999988,0.699999988,0
+,It has what I need,0.600000024,0.600000024,1
+,We can do what we expected two years back from now,0.300000012,0.300000012,1
+,Terrible customer service,-0.899999976,0.899999976,0
+,Great service,0.899999976,0.899999976,1
+,Horrible service,-0.899999976,0.899999976,0
+,Really great transaction,0.899999976,0.899999976,1
+,The ventilation system worked throughout the night and was very loud even after turning the controller off Didn t get much sleep as a result,-0.400000006,0.400000006,0
+,Restaurant could be bigger,0.100000001,0.100000001,0.5
+,Room given was in basement with view of a wall and nothing else felt a bit cheated by that,-0.600000024,0.600000024,0
+,I felt on reflection that it was pricey for just a room,-0.400000006,0.400000006,0
+,There was a leek in the roof above the shower in room 421,0,0,0.5
+,This attracts more people,0.200000003,0.200000003,1
+,You guys are making us happy,0.800000012,0.800000012,1
+,Worst experience ever,-0.899999976,0.899999976,0
+,How are you satisfying customers like this,-0.100000001,0.100000001,0.5
+,I felt like I am in a dream now,0.800000012,0.800000012,1
+,Keep the good work like this,0.899999976,0.899999976,1
+,There is no competition for other service providers. You are the best,0.400000006,0.800000012,1
+,You should be careful when you give new updates,0,0,0.5
+,Sound is good,0.699999988,0.699999988,1
+,It is time to rethink new service. You guys are repeating same mistake over and over,-0.400000006,0.800000012,0
+,You have reached some level,0.200000003,0.200000003,1
+,I am happy now and I told this feature to my friends,0.800000012,0.800000012,1
+,Now you are giving what we need,0.400000006,0.400000006,1
+,I am thrilled with your output,0.899999976,0.899999976,1
+,It is what I need right now,0.5,0.5,1
+,You are the worst,-0.899999976,0.899999976,0
+,Worst service ever,-0.899999976,0.899999976,0
+,Keep your good work,0.800000012,0.800000012,1
+,Their managing the resources are pretty amazing,0.899999976,0.899999976,1
+,I cant decide which one to use now,0.100000001,0.100000001,0.5
+,You guys are alyways thinking about the customer. You are the best,0.400000006,0.899999976,1
+,Sometimes this is going crazy during using it,0,0,0
+,I am counting on your good work,0.699999988,0.699999988,1
+,Your service is suck. Need to be improved more,0,1,0
+,So true. We love being so close to the train.,0.5,1,1
+,Oh Wow!  What a storm and what an incredible shot demonstrating the powerful nature of it,0.5,1,1
+,I love everything about that place,0.899999976,0.899999976,1
+,They have their own facebook page,-0.200000003,0.200000003,0.5
+,Somebody said its not safe.  I lived there after moving from an unsafe neighborhood I always felt safe.,-0.600000024,1.299999952,0
+,You guys are so awesome!!!,0.899999976,0.899999976,1
+,very cool,0.800000012,0.800000012,1
+,Very disappointing,-0.899999976,0.899999976,0
+,This is showing up as attachment unavailable,-0.800000012,0.800000012,0.5
+,Please send me a private message so we can work out a time.,-0.200000003,0.200000003,0.5
+,The dates have been out there for quite some time yet no one brought this up before now. That is what puzzles me,0.100000001,0.699999988,0.5
+,sweet!   I appreciate your willingness.  I promise it will be painless.,0.800000012,2.400000095,1
+,Possibly! Depends on a couple of scheduling things. Looking forward to learning.,0.400000006,1.299999952,0.5
+,mental illness wears many faces,0.200000003,0.200000003,0
+,Poor little skunky.,-0.800000012,0.800000012,0
+,I can't really comment on the reliability,-0.100000001,0.100000001,0.5
+,Tech package is definitely worth it,0.899999976,0.899999976,1
+,This car has everything I wanted,0.899999976,0.899999976,1
+,We think this is fail design and vulnerable to be stolen.,-0.800000012,0.800000012,0
+,We think the DVD headrest design was inferior,-0.800000012,0.800000012,0
+,I'm extremely pleased with our MDX,0.899999976,0.899999976,1
+,"Nav is good, but has too many 'warning' prompts",-0.300000012,0.300000012,0.5
+,"However, for some reason, and for the first time, I've had several electrical issues.",-0.800000012,0.800000012,0
+,Fuel-economy is a really big down side,-0.699999988,0.699999988,0
+,I am very impressed with the handling and many electronic features of the MDX. But I am somewhat disappointed in some of the interior fit & finish,0,1.799999952,0.5
+,Nice car. Build quality is excellent. Dealer service has been excellent.,0.899999976,2.799999952,1
+,Save your money folks -lot better stuff out there for the price,-0.5,0.5,0
+,Can't say enough how much fun is to drive this car,0.899999976,0.899999976,1
+,"All around solid, stays on road. Engine has a low throaty sound that sets off other car alarms - too cool!",0.800000012,1.700000048,1
+,6 months and zero issues at all (never had this experience with prev. german cars purchased),0.200000003,0.5,1
+, My biggest complaint with my C4S coupe was how noisy it was in the interior,-0.800000012,0.800000012,0
+,I felt I had to compromise comfort for power,-0.800000012,0.800000012,0
+,There is plenty of room to carry things,0.899999976,0.899999976,1
+,"For the first 16,000 miles we have averaged 22 MPG - not bad for a big car that drives so easily",0.200000003,0.200000003,0.5
+,Affordable and Clean but a bit noisy,0.100000001,0.100000001,0.5
+,Very nice very convenient very friendly! I'm going back!,0.899999976,1.799999952,1
+,Not a luxury hotel but still good,0.400000006,0.400000006,0.5
+,Shabby hotel in shabby neighborhood,-0.600000024,0.600000024,0
+,Not worth the price,-0.800000012,0.800000012,0
+,Nothing Special,-0.300000012,0.300000012,0.5
