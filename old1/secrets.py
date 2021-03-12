@@ -1,4 +1,0 @@
-token = "EAAI8NjBiWeYBAOSiQsoM4lLorFHcNJbpZBNs84bAOurUT7dXOf695isZABlRpmYSVtyBD1Pewc0qFQJqOZC68oZC2s93gqPciZB5PXSHnO4dEzxWIYbEDPYghHlweZBZBfewgnD6EL7ZAxA8ZAGXJRtsLZAuC3ZC51IOHnqsnaHlfeljRnFZAzEZCNbtmDruAkKYZAyD4AkeWo0RB99PDnTw6XK4vQszsLLH2CEZA1ObZAth4vpE5wZDZD"
-ipAddress = "10.0.0.30"
-#r convert string into a raw string
-credential_path=r"C:\Users\AkeshalaMarasinghe\Desktop\NLP sentiment\fb-sentiment-analysis-293104-e401943a4bf4.json"
